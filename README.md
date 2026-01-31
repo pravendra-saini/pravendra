@@ -1,3 +1,4 @@
+![logo](https://github.com/pravendra-saini/pravendra/blob/main/OIP.jpg)
 <h1 align="center">Hi 👋, I'm pravendra saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-4.gif"> 
